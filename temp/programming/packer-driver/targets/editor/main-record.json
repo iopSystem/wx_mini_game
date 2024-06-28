@@ -1,7 +1,7 @@
 {
   "modules": {
     "cce:/internal/x/cc": {
-      "mTimestamp": 34280.10360002518,
+      "mTimestamp": 8602.148900002241,
       "chunkId": "93ba276ea7b26ffcdc433fab14afc1ed6f05647b",
       "imports": [
         {
@@ -640,7 +640,7 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 70555.79410004616,
+      "mTimestamp": 15903.648100018501,
       "chunkId": "6d8fd2b0177941b032ddc0733af48a561fb60657",
       "imports": [
         {
@@ -670,6 +670,20 @@
               "column": 259
             }
           }
+        },
+        {
+          "value": "file:///F:/CocosCreateEdit/wx_mini_game/assets/NewComponent.ts",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 187
+            },
+            "end": {
+              "line": 5,
+              "column": 251
+            }
+          }
         }
       ],
       "type": "esm",
@@ -685,6 +699,13 @@
           "resolved": {
             "type": "module",
             "url": "file:///D:/ProgramData/cocos/editors/Creator/3.8.3/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///F:/CocosCreateEdit/wx_mini_game/assets/NewComponent.ts"
           },
           "messages": []
         }
@@ -742,64 +763,12 @@
         }
       ]
     },
-    "file:///D:/ProgramData/cocos/editors/Creator/3.8.3/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts": {
+    "file:///F:/CocosCreateEdit/wx_mini_game/assets/NewComponent.ts": {
       "mTimestamp": {
-        "mtime": 1717861041748.5923,
-        "uuid": "b2bd1fa7-8d7c-49c5-a158-df29a6d3a594"
+        "mtime": 1719554301921.368,
+        "uuid": "02355a23-bc8e-45ab-b2bc-f1436ccf1ec5"
       },
-      "chunkId": "6a5f6533e1d3d051bbd1f79f81d3f446033f8965",
-      "imports": [
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc",
-          "loc": {
-            "start": {
-              "line": 1,
-              "column": 220
-            },
-            "end": {
-              "line": 1,
-              "column": 224
-            }
-          }
-        }
-      ],
-      "type": "esm",
-      "resolutions": [
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        }
-      ]
-    },
-    "file:///C:/Users/%E5%92%A9/Desktop/typescript/wx_mini_game/assets/aaadd.ts": {
-      "mTimestamp": {
-        "mtime": 1719554574913.0227,
-        "uuid": "962c597f-782f-4f8e-879b-eea00d4a3aa7"
-      },
-      "chunkId": "ada42237649f5729b692bdec9362eb96172033d7",
+      "chunkId": "6629726ce8bf3b2c1beec2dfea8f716c7e17cecd",
       "imports": [
         {
           "value": "cc"

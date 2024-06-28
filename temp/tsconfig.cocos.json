@@ -5,9 +5,9 @@
     "module": "ES2015",
     "strict": true,
     "types": [
-      "./temp/declarations/jsb",
-      "./temp/declarations/cc",
       "./temp/declarations/cc.custom-macro",
+      "./temp/declarations/cc",
+      "./temp/declarations/jsb",
       "./temp/declarations/cc.env"
     ],
     "paths": {
@@ -15,7 +15,7 @@
         "D:\\ProgramData\\cocos\\editors\\Creator\\3.8.3\\resources\\resources\\3d\\engine\\editor\\assets\\*"
       ],
       "db://assets/*": [
-        "C:\\Users\\咩\\Desktop\\typescript\\wx_mini_game\\assets\\*"
+        "F:\\CocosCreateEdit\\wx_mini_game\\assets\\*"
       ]
     },
     "experimentalDecorators": true,

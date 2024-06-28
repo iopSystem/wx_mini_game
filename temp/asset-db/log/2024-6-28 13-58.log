@@ -1,0 +1,133 @@
+2024-6-28 13:58:10-log: Cannot access game frame or container.
+2024-6-28 13:58:11-debug: asset-db:require-engine-code (1450ms)
+2024-6-28 13:58:11-log: meshopt wasm decoder initialized
+2024-6-28 13:58:11-log: [box2d]:box2d wasm lib loaded.
+2024-6-28 13:58:11-log: [bullet]:bullet wasm lib loaded.
+2024-6-28 13:58:11-log: Cocos Creator v3.8.3
+2024-6-28 13:58:11-debug: [Assets Memory track]: asset-db:worker-init: initEngine start:24.33MB, end 77.28MB, increase: 52.95MB
+2024-6-28 13:58:14-debug: [Assets Memory track]: asset-db-plugin-register: builder start:81.27MB, end 179.33MB, increase: 98.06MB
+2024-6-28 13:58:12-debug: [Assets Memory track]: asset-db-plugin-register: programming start:78.04MB, end 81.25MB, increase: 3.22MB
+2024-6-28 13:58:14-debug: [Assets Memory track]: asset-db-plugin-register: project start:77.90MB, end 174.93MB, increase: 97.03MB
+2024-6-28 13:58:14-debug: [Assets Memory track]: asset-db:worker-init: initPlugin start:77.28MB, end 174.95MB, increase: 97.67MB
+2024-6-28 13:58:14-debug: asset-db:worker-init: initPlugin (2441ms)
+2024-6-28 13:58:14-debug: [Assets Memory track]: asset-db:worker-init start:24.32MB, end 175.07MB, increase: 150.75MB
+2024-6-28 13:58:14-debug: Run asset db hook programming:beforePreStart ...
+2024-6-28 13:58:14-debug: Run asset db hook programming:beforePreStart success!
+2024-6-28 13:58:14-debug: Run asset db hook engine-extends:beforePreStart ...
+2024-6-28 13:58:14-debug: Run asset db hook engine-extends:beforePreStart success!
+2024-6-28 13:58:14-debug: asset-db:worker-init (4304ms)
+2024-6-28 13:58:14-debug: asset-db-hook-programming-beforePreStart (174ms)
+2024-6-28 13:58:14-debug: asset-db-hook-engine-extends-beforePreStart (173ms)
+2024-6-28 13:58:14-debug: Preimport db internal success
+2024-6-28 13:58:14-debug: Preimport db assets success
+2024-6-28 13:58:14-debug: Run asset db hook programming:afterPreStart ...
+2024-6-28 13:58:14-debug: starting packer-driver...
+2024-6-28 13:58:14-debug: initialize scripting environment...
+2024-6-28 13:58:14-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-6-28 13:58:14-debug: Run asset db hook programming:afterPreStart success!
+2024-6-28 13:58:14-debug: Run asset db hook engine-extends:afterPreStart ...
+2024-6-28 13:58:14-debug: Start up the 'internal' database...
+2024-6-28 13:58:14-debug: Run asset db hook engine-extends:afterPreStart success!
+2024-6-28 13:58:15-debug: asset-db-hook-programming-afterPreStart (796ms)
+2024-6-28 13:58:15-debug: asset-db:worker-effect-data-processing (395ms)
+2024-6-28 13:58:15-debug: asset-db-hook-engine-extends-afterPreStart (395ms)
+2024-6-28 13:58:15-debug: [Assets Memory track]: asset-db:worker-startup-database[internal] start:175.12MB, end 189.29MB, increase: 14.16MB
+2024-6-28 13:58:15-debug: Start up the 'assets' database...
+2024-6-28 13:58:15-debug: asset-db:worker-startup-database[internal] (1137ms)
+2024-6-28 13:58:15-debug: [Assets Memory track]: asset-db:worker-startup-database[assets] start:180.13MB, end 189.35MB, increase: 9.22MB
+2024-6-28 13:58:15-debug: [Assets Memory track]: asset-db:worker-init: startup start:175.48MB, end 189.36MB, increase: 13.88MB
+2024-6-28 13:58:15-debug: lazy register asset handler *
+2024-6-28 13:58:15-debug: lazy register asset handler directory
+2024-6-28 13:58:15-debug: lazy register asset handler spine-data
+2024-6-28 13:58:15-debug: lazy register asset handler dragonbones
+2024-6-28 13:58:15-debug: lazy register asset handler dragonbones-atlas
+2024-6-28 13:58:15-debug: lazy register asset handler terrain
+2024-6-28 13:58:15-debug: lazy register asset handler javascript
+2024-6-28 13:58:15-debug: lazy register asset handler typescript
+2024-6-28 13:58:15-debug: lazy register asset handler scene
+2024-6-28 13:58:15-debug: lazy register asset handler prefab
+2024-6-28 13:58:15-debug: lazy register asset handler sprite-frame
+2024-6-28 13:58:15-debug: lazy register asset handler tiled-map
+2024-6-28 13:58:15-debug: lazy register asset handler buffer
+2024-6-28 13:58:15-debug: lazy register asset handler image
+2024-6-28 13:58:15-debug: lazy register asset handler sign-image
+2024-6-28 13:58:15-debug: lazy register asset handler alpha-image
+2024-6-28 13:58:15-debug: lazy register asset handler texture
+2024-6-28 13:58:15-debug: lazy register asset handler texture-cube
+2024-6-28 13:58:15-debug: lazy register asset handler render-texture
+2024-6-28 13:58:15-debug: lazy register asset handler erp-texture-cube
+2024-6-28 13:58:15-debug: lazy register asset handler texture-cube-face
+2024-6-28 13:58:15-debug: lazy register asset handler json
+2024-6-28 13:58:15-debug: lazy register asset handler rt-sprite-frame
+2024-6-28 13:58:15-debug: lazy register asset handler text
+2024-6-28 13:58:15-debug: lazy register asset handler gltf
+2024-6-28 13:58:15-debug: lazy register asset handler gltf-animation
+2024-6-28 13:58:15-debug: lazy register asset handler gltf-mesh
+2024-6-28 13:58:15-debug: lazy register asset handler gltf-scene
+2024-6-28 13:58:15-debug: lazy register asset handler gltf-skeleton
+2024-6-28 13:58:15-debug: lazy register asset handler gltf-embeded-image
+2024-6-28 13:58:15-debug: lazy register asset handler fbx
+2024-6-28 13:58:15-debug: lazy register asset handler material
+2024-6-28 13:58:15-debug: lazy register asset handler physics-material
+2024-6-28 13:58:15-debug: lazy register asset handler gltf-material
+2024-6-28 13:58:15-debug: lazy register asset handler effect-header
+2024-6-28 13:58:15-debug: lazy register asset handler audio-clip
+2024-6-28 13:58:15-debug: lazy register asset handler animation-clip
+2024-6-28 13:58:15-debug: lazy register asset handler animation-graph
+2024-6-28 13:58:15-debug: lazy register asset handler animation-graph-variant
+2024-6-28 13:58:15-debug: lazy register asset handler animation-mask
+2024-6-28 13:58:15-debug: lazy register asset handler bitmap-font
+2024-6-28 13:58:15-debug: lazy register asset handler particle
+2024-6-28 13:58:15-debug: lazy register asset handler sprite-atlas
+2024-6-28 13:58:15-debug: lazy register asset handler auto-atlas
+2024-6-28 13:58:15-debug: lazy register asset handler label-atlas
+2024-6-28 13:58:15-debug: lazy register asset handler render-pipeline
+2024-6-28 13:58:15-debug: lazy register asset handler render-flow
+2024-6-28 13:58:15-debug: lazy register asset handler effect
+2024-6-28 13:58:15-debug: lazy register asset handler render-stage
+2024-6-28 13:58:15-debug: lazy register asset handler ttf-font
+2024-6-28 13:58:15-debug: lazy register asset handler instantiation-skeleton
+2024-6-28 13:58:15-debug: lazy register asset handler instantiation-animation
+2024-6-28 13:58:15-debug: lazy register asset handler video-clip
+2024-6-28 13:58:15-debug: lazy register asset handler instantiation-mesh
+2024-6-28 13:58:15-debug: lazy register asset handler instantiation-material
+2024-6-28 13:58:15-debug: asset-db:worker-startup-database[assets] (944ms)
+2024-6-28 13:58:15-debug: asset-db:start-database (1193ms)
+2024-6-28 13:58:15-debug: asset-db:ready (8724ms)
+2024-6-28 13:58:15-debug: init worker message success
+2024-6-28 13:58:15-debug: programming:execute-script (6ms)
+2024-6-28 13:58:16-debug: [Build Memory track]: builder:worker-init start:187.17MB, end 201.51MB, increase: 14.34MB
+2024-6-28 13:58:16-debug: builder:worker-init (671ms)
+2024-6-28 13:58:21-debug: start refresh asset from F:\CocosCreateEdit\wx_mini_game\assets\NewComponent.ts...
+2024-6-28 13:58:21-debug: %cImport%c: F:\CocosCreateEdit\wx_mini_game\assets\NewComponent.tsbackground: #aaff85; color: #000;color: #000;
+2024-6-28 13:58:21-debug: refresh asset F:\CocosCreateEdit\wx_mini_game\assets success
+2024-6-28 13:58:25-debug: start refresh asset from F:\CocosCreateEdit\wx_mini_game\assets\main_scene.scene...
+2024-6-28 13:58:25-debug: %cImport%c: F:\CocosCreateEdit\wx_mini_game\assets\main_scene.scenebackground: #aaff85; color: #000;color: #000;
+2024-6-28 13:58:25-debug: refresh asset F:\CocosCreateEdit\wx_mini_game\assets success
+2024-6-28 13:58:41-debug: start refresh asset from F:\CocosCreateEdit\wx_mini_game\assets\main_scene.scene...
+2024-6-28 13:58:41-debug: %cImport%c: F:\CocosCreateEdit\wx_mini_game\assets\main_scene.scenebackground: #aaff85; color: #000;color: #000;
+2024-6-28 13:58:41-debug: refresh asset F:\CocosCreateEdit\wx_mini_game\assets success
+2024-6-28 13:58:42-debug: start refresh asset from F:\CocosCreateEdit\wx_mini_game\assets\main_scene.scene...
+2024-6-28 13:58:42-debug: %cImport%c: F:\CocosCreateEdit\wx_mini_game\assets\main_scene.scenebackground: #aaff85; color: #000;color: #000;
+2024-6-28 13:58:42-debug: refresh asset F:\CocosCreateEdit\wx_mini_game\assets success
+2024-6-28 13:58:52-debug: start refresh asset from F:\CocosCreateEdit\wx_mini_game\assets\main_scene.scene...
+2024-6-28 13:58:52-debug: %cImport%c: F:\CocosCreateEdit\wx_mini_game\assets\main_scene.scenebackground: #aaff85; color: #000;color: #000;
+2024-6-28 13:58:52-debug: refresh asset F:\CocosCreateEdit\wx_mini_game\assets success
+2024-6-28 13:58:53-debug: start refresh asset from F:\CocosCreateEdit\wx_mini_game\assets\main_scene.scene...
+2024-6-28 13:58:53-debug: %cImport%c: F:\CocosCreateEdit\wx_mini_game\assets\main_scene.scenebackground: #aaff85; color: #000;color: #000;
+2024-6-28 13:58:53-debug: refresh asset F:\CocosCreateEdit\wx_mini_game\assets success
+2024-6-28 13:58:53-debug: start refresh asset from F:\CocosCreateEdit\wx_mini_game\assets\main_scene.scene...
+2024-6-28 13:58:53-debug: %cImport%c: F:\CocosCreateEdit\wx_mini_game\assets\main_scene.scenebackground: #aaff85; color: #000;color: #000;
+2024-6-28 13:58:53-debug: refresh asset F:\CocosCreateEdit\wx_mini_game\assets success
+2024-6-28 13:59:21-debug: start refresh asset from F:\CocosCreateEdit\wx_mini_game\assets\scene-2d.scene...
+2024-6-28 13:59:21-debug: %cImport%c: F:\CocosCreateEdit\wx_mini_game\assets\scene-2d.scenebackground: #aaff85; color: #000;color: #000;
+2024-6-28 13:59:21-debug: refresh asset F:\CocosCreateEdit\wx_mini_game\assets success
+2024-6-28 13:59:30-debug: start refresh asset from F:\CocosCreateEdit\wx_mini_game\assets\scene-2d.scene...
+2024-6-28 13:59:30-debug: %cImport%c: F:\CocosCreateEdit\wx_mini_game\assets\scene-2d.scenebackground: #aaff85; color: #000;color: #000;
+2024-6-28 13:59:30-debug: refresh asset F:\CocosCreateEdit\wx_mini_game\assets success
+2024-6-28 13:59:31-debug: start refresh asset from F:\CocosCreateEdit\wx_mini_game\assets\scene-2d.scene...
+2024-6-28 13:59:31-debug: %cImport%c: F:\CocosCreateEdit\wx_mini_game\assets\scene-2d.scenebackground: #aaff85; color: #000;color: #000;
+2024-6-28 13:59:31-debug: refresh asset F:\CocosCreateEdit\wx_mini_game\assets success
+2024-6-28 13:59:39-debug: start refresh asset from F:\CocosCreateEdit\wx_mini_game\assets\main_scene.scene...
+2024-6-28 13:59:39-debug: %cImport%c: F:\CocosCreateEdit\wx_mini_game\assets\main_scene.scenebackground: #aaff85; color: #000;color: #000;
+2024-6-28 13:59:39-debug: refresh asset F:\CocosCreateEdit\wx_mini_game\assets success

@@ -15,26 +15,33 @@
       "time": 1718553245222.9578,
       "uuid": "a8f65888-2b11-4333-b2f4-6e39931492ec"
     },
-    "C:\\Users\\咩\\Desktop\\typescript\\wx_mini_game\\assets\\baojian.jpg": {
-      "time": 1719551054725.3047,
+    "F:\\CocosCreateEdit\\wx_mini_game\\assets\\baojian.jpg": {
+      "time": 1719552816033.975,
       "uuid": "a8f65888-2b11-4333-b2f4-6e39931492ec"
     },
-    "C:\\Users\\咩\\Desktop\\typescript\\wx_mini_game\\assets\\main_scene.scene": {
-      "time": 1719554577410.5564,
+    "F:\\CocosCreateEdit\\wx_mini_game\\assets\\main_scene.scene": {
+      "time": 1719554379963.7407,
       "uuid": "46b1b9f5-9200-4eaa-a514-9b7de1115666"
     },
-    "C:\\Users\\咩\\Desktop\\typescript\\wx_mini_game\\assets\\main_scene.scene.meta": {
-      "time": 1719551054730.3103
+    "F:\\CocosCreateEdit\\wx_mini_game\\assets\\main_scene.scene.meta": {
+      "time": 1719552816040.74
     },
-    "C:\\Users\\咩\\Desktop\\typescript\\wx_mini_game\\assets\\baojian.jpg.meta": {
-      "time": 1719551054727.3066
+    "F:\\CocosCreateEdit\\wx_mini_game\\assets\\baojian.jpg.meta": {
+      "time": 1719552816034.7556
     },
-    "C:\\Users\\咩\\Desktop\\typescript\\wx_mini_game\\assets\\aaadd.ts.meta": {
-      "time": 1719554574918.4949
+    "F:\\CocosCreateEdit\\wx_mini_game\\assets\\NewComponent.ts.meta": {
+      "time": 1719554301929.346
     },
-    "C:\\Users\\咩\\Desktop\\typescript\\wx_mini_game\\assets\\aaadd.ts": {
-      "time": 1719554574913.0227,
-      "uuid": "962c597f-782f-4f8e-879b-eea00d4a3aa7"
+    "F:\\CocosCreateEdit\\wx_mini_game\\assets\\NewComponent.ts": {
+      "time": 1719554301921.368,
+      "uuid": "02355a23-bc8e-45ab-b2bc-f1436ccf1ec5"
+    },
+    "F:\\CocosCreateEdit\\wx_mini_game\\assets\\scene-2d.scene.meta": {
+      "time": 1719554361813.3987
+    },
+    "F:\\CocosCreateEdit\\wx_mini_game\\assets\\scene-2d.scene": {
+      "time": 1719554371056.8132,
+      "uuid": "4317e6f1-b682-482d-b903-cf7ee22fc2a0"
     }
   },
   "missing": {}
