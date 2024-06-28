@@ -1,0 +1,38 @@
+{
+  "46b1b9f5-9200-4eaa-a514-9b7de1115666": {
+    "url": "db://assets/main_scene.scene",
+    "value": {
+      "depends": [
+        "46b1b9f5-9200-4eaa-a514-9b7de1115666",
+        "a8f65888-2b11-4333-b2f4-6e39931492ec@f9941"
+      ],
+      "dependScripts": []
+    },
+    "versionCode": 1
+  },
+  "a8f65888-2b11-4333-b2f4-6e39931492ec": {
+    "url": "db://assets/baojian.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "a8f65888-2b11-4333-b2f4-6e39931492ec@6c48a": {
+    "url": "db://assets/baojian.jpg@6c48a",
+    "value": {
+      "depends": [
+        "a8f65888-2b11-4333-b2f4-6e39931492ec"
+      ]
+    },
+    "versionCode": 1
+  },
+  "a8f65888-2b11-4333-b2f4-6e39931492ec@f9941": {
+    "url": "db://assets/baojian.jpg@f9941",
+    "value": {
+      "depends": [
+        "a8f65888-2b11-4333-b2f4-6e39931492ec@6c48a"
+      ]
+    },
+    "versionCode": 1
+  }
+}
