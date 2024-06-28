@@ -1,5 +1,17 @@
 {
   "chunks": {
+    "e0b2b12915353a980775cdc09b54217214bae0bf": {
+      "imports": {
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "93ba276ea7b26ffcdc433fab14afc1ed6f05647b"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1719540067325
+    },
     "93ba276ea7b26ffcdc433fab14afc1ed6f05647b": {
       "imports": {
         "__unresolved_0": {
@@ -136,9 +148,9 @@
           "messages": []
         }
       },
-      "timestamp": 1719540067173
+      "timestamp": 1719554539739
     },
-    "e0b2b12915353a980775cdc09b54217214bae0bf": {
+    "6a5f6533e1d3d051bbd1f79f81d3f446033f8965": {
       "imports": {
         "cc": {
           "resolved": {
@@ -148,24 +160,44 @@
           "messages": []
         }
       },
-      "timestamp": 1719540067325
+      "timestamp": 1719554540224
     },
     "6d8fd2b0177941b032ddc0733af48a561fb60657": {
       "imports": {
         "__unresolved_0": {
           "resolved": {
             "type": "chunk",
-            "id": "e0b2b12915353a980775cdc09b54217214bae0bf"
+            "id": "ada42237649f5729b692bdec9362eb96172033d7"
+          },
+          "messages": []
+        },
+        "__unresolved_1": {
+          "resolved": {
+            "type": "chunk",
+            "id": "6a5f6533e1d3d051bbd1f79f81d3f446033f8965"
           },
           "messages": []
         }
       },
-      "timestamp": 1719540072971
+      "timestamp": 1719554575077
+    },
+    "ada42237649f5729b692bdec9362eb96172033d7": {
+      "imports": {
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "93ba276ea7b26ffcdc433fab14afc1ed6f05647b"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1719554575132
     }
   },
   "entries": {
     "cce:/internal/x/cc": "93ba276ea7b26ffcdc433fab14afc1ed6f05647b",
     "cce:/internal/x/prerequisite-imports": "6d8fd2b0177941b032ddc0733af48a561fb60657",
-    "file:///F:/CocosCreateEdit/cocos/editors/Creator/3.8.3/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts": "e0b2b12915353a980775cdc09b54217214bae0bf"
+    "file:///C:/Users/%E5%92%A9/Desktop/typescript/wx_mini_game/assets/aaadd.ts": "ada42237649f5729b692bdec9362eb96172033d7",
+    "file:///D:/ProgramData/cocos/editors/Creator/3.8.3/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts": "6a5f6533e1d3d051bbd1f79f81d3f446033f8965"
   }
 }

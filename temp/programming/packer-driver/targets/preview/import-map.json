@@ -2,7 +2,8 @@
   "imports": {
     "cce:/internal/x/cc": "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js",
     "cce:/internal/x/prerequisite-imports": "./chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js",
-    "file:///F:/CocosCreateEdit/cocos/editors/Creator/3.8.3/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts": "./chunks/e0/e0b2b12915353a980775cdc09b54217214bae0bf.js"
+    "file:///C:/Users/%E5%92%A9/Desktop/typescript/wx_mini_game/assets/aaadd.ts": "./chunks/ad/ada42237649f5729b692bdec9362eb96172033d7.js",
+    "file:///D:/ProgramData/cocos/editors/Creator/3.8.3/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts": "./chunks/6a/6a5f6533e1d3d051bbd1f79f81d3f446033f8965.js"
   },
   "scopes": {
     "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js": {
@@ -27,9 +28,13 @@
       "__unresolved_9": "cce:/internal/x/cc-fu/particle-2d"
     },
     "./chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js": {
-      "__unresolved_0": "./chunks/e0/e0b2b12915353a980775cdc09b54217214bae0bf.js"
+      "__unresolved_0": "./chunks/ad/ada42237649f5729b692bdec9362eb96172033d7.js",
+      "__unresolved_1": "./chunks/6a/6a5f6533e1d3d051bbd1f79f81d3f446033f8965.js"
     },
-    "./chunks/e0/e0b2b12915353a980775cdc09b54217214bae0bf.js": {
+    "./chunks/6a/6a5f6533e1d3d051bbd1f79f81d3f446033f8965.js": {
+      "cc": "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js"
+    },
+    "./chunks/ad/ada42237649f5729b692bdec9362eb96172033d7.js": {
       "cc": "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js"
     }
   }
