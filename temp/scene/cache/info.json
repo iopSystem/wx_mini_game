@@ -1,0 +1,11 @@
+{
+    "systemInfo": {
+        "arch": "x64",
+        "cpu": "Intel(R) Core(TM) i5-9400 CPU @ 2.90GHz",
+        "version": "Windows 10 Home China"
+    },
+    "sceneListMap": {
+        "4317e6f1-b682-482d-b903-cf7ee22fc2a0": "F:\\CocosCreateEdit\\wx_mini_game\\assets\\scene-2d.scene"
+    },
+    "deviceMd5": "ad4c71d5118bde04907f3f047d43d3fb"
+}

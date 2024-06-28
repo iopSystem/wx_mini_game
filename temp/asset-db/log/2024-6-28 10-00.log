@@ -704,3 +704,58 @@
 2024-6-28 10:36:35-debug: asset-db:worker-effect-data-processing (1ms)
 2024-6-28 10:36:35-debug: asset-db:refresh-all-database (152ms)
 2024-6-28 10:36:35-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-6-28 11:52:36-debug: refresh db internal success
+2024-6-28 11:52:36-debug: refresh db assets success
+2024-6-28 11:52:36-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-6-28 11:52:36-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-6-28 11:52:36-debug: asset-db:refresh-all-database (150ms)
+2024-6-28 11:52:36-debug: asset-db:worker-effect-data-processing (2ms)
+2024-6-28 11:52:36-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2024-6-28 11:53:10-log: The asset database is locked, asset operations(bound _refreshAsset) will delay response, please wait a moment.
+2024-6-28 11:53:10-debug: refresh db internal success
+2024-6-28 11:53:10-debug: %cImport%c: F:\CocosCreateEdit\project\wx_mini_game\assets\main_scene.scenebackground: #aaff85; color: #000;color: #000;
+2024-6-28 11:53:10-debug: refresh db assets success
+2024-6-28 11:53:10-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-6-28 11:53:10-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-6-28 11:53:10-debug: start refresh asset from F:\CocosCreateEdit\project\wx_mini_game\assets\main_scene.scene...
+2024-6-28 11:53:10-debug: refresh asset F:\CocosCreateEdit\project\wx_mini_game\assets success
+2024-6-28 11:53:10-debug: asset-db:refresh-all-database (238ms)
+2024-6-28 11:53:10-debug: asset-db:worker-effect-data-processing (1ms)
+2024-6-28 11:53:10-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2024-6-28 11:53:40-debug: refresh db internal success
+2024-6-28 11:53:40-debug: refresh db assets success
+2024-6-28 11:53:40-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-6-28 11:53:40-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-6-28 11:53:40-debug: asset-db:worker-effect-data-processing (1ms)
+2024-6-28 11:53:40-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-6-28 11:53:40-debug: asset-db:refresh-all-database (133ms)
+2024-6-28 11:53:44-debug: refresh db internal success
+2024-6-28 11:53:44-debug: refresh db assets success
+2024-6-28 11:53:44-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-6-28 11:53:44-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-6-28 11:53:44-debug: asset-db:refresh-all-database (120ms)
+2024-6-28 11:53:44-debug: asset-db:worker-effect-data-processing (1ms)
+2024-6-28 11:53:44-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-6-28 11:54:41-debug: refresh db internal success
+2024-6-28 11:54:41-debug: refresh db assets success
+2024-6-28 11:54:41-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-6-28 11:54:41-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-6-28 11:54:41-debug: asset-db:refresh-all-database (126ms)
+2024-6-28 11:54:41-debug: asset-db:worker-effect-data-processing (1ms)
+2024-6-28 11:54:41-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-6-28 11:54:54-debug: start refresh asset from F:\CocosCreateEdit\project\wx_mini_game\assets\baojian.jpg...
+2024-6-28 11:54:54-debug: %cImport%c: F:\CocosCreateEdit\project\wx_mini_game\assets\baojian.jpgbackground: #aaff85; color: #000;color: #000;
+2024-6-28 11:54:55-debug: %cImport%c: F:\CocosCreateEdit\project\wx_mini_game\assets\baojian.jpg@6c48abackground: #aaff85; color: #000;color: #000;
+2024-6-28 11:54:55-debug: %cImport%c: F:\CocosCreateEdit\project\wx_mini_game\assets\baojian.jpg@f9941background: #aaff85; color: #000;color: #000;
+2024-6-28 11:54:55-debug: refresh db internal success
+2024-6-28 11:54:55-log: The asset database is locked, asset operations(bound autoRefreshAssetLazy) will delay response, please wait a moment.
+2024-6-28 11:54:55-debug: refresh asset F:\CocosCreateEdit\project\wx_mini_game\assets success
+2024-6-28 11:54:55-debug: refresh db assets success
+2024-6-28 11:54:55-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-6-28 11:54:55-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-6-28 11:54:55-debug: asset-db:refresh-all-database (159ms)
+2024-6-28 11:54:55-debug: asset-db:worker-effect-data-processing (4ms)
+2024-6-28 11:54:55-debug: asset-db-hook-engine-extends-afterRefresh (4ms)
+2024-6-28 11:54:59-debug: start refresh asset from F:\CocosCreateEdit\project\wx_mini_game\assets\main_scene.scene...
+2024-6-28 11:54:59-debug: %cImport%c: F:\CocosCreateEdit\project\wx_mini_game\assets\main_scene.scenebackground: #aaff85; color: #000;color: #000;
+2024-6-28 11:54:59-debug: refresh asset F:\CocosCreateEdit\project\wx_mini_game\assets success

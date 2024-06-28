@@ -2,7 +2,8 @@
   "imports": {
     "cce:/internal/x/cc": "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js",
     "cce:/internal/x/prerequisite-imports": "./chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js",
-    "file:///F:/CocosCreateEdit/cocos/editors/Creator/3.8.3/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts": "./chunks/e0/e0b2b12915353a980775cdc09b54217214bae0bf.js"
+    "file:///F:/CocosCreateEdit/cocos/editors/Creator/3.8.3/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts": "./chunks/e0/e0b2b12915353a980775cdc09b54217214bae0bf.js",
+    "file:///F:/CocosCreateEdit/wx_mini_game/assets/NewComponent.ts": "./chunks/66/6629726ce8bf3b2c1beec2dfea8f716c7e17cecd.js"
   },
   "scopes": {
     "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js": {
@@ -38,7 +39,11 @@
       "__unresolved_9": "cce:/internal/x/cc-fu/ui"
     },
     "./chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js": {
-      "__unresolved_0": "./chunks/e0/e0b2b12915353a980775cdc09b54217214bae0bf.js"
+      "__unresolved_0": "./chunks/e0/e0b2b12915353a980775cdc09b54217214bae0bf.js",
+      "__unresolved_1": "./chunks/66/6629726ce8bf3b2c1beec2dfea8f716c7e17cecd.js"
+    },
+    "./chunks/66/6629726ce8bf3b2c1beec2dfea8f716c7e17cecd.js": {
+      "cc": "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js"
     },
     "./chunks/e0/e0b2b12915353a980775cdc09b54217214bae0bf.js": {
       "cc": "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js"

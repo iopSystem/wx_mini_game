@@ -1,7 +1,7 @@
 {
   "modules": {
     "cce:/internal/x/cc": {
-      "mTimestamp": 9390.697299987078,
+      "mTimestamp": 8602.148900002241,
       "chunkId": "93ba276ea7b26ffcdc433fab14afc1ed6f05647b",
       "imports": [
         {
@@ -640,7 +640,7 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 11355.41139999032,
+      "mTimestamp": 15903.648100018501,
       "chunkId": "6d8fd2b0177941b032ddc0733af48a561fb60657",
       "imports": [
         {
@@ -656,6 +656,20 @@
               "column": 171
             }
           }
+        },
+        {
+          "value": "file:///F:/CocosCreateEdit/wx_mini_game/assets/NewComponent.ts",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 187
+            },
+            "end": {
+              "line": 5,
+              "column": 251
+            }
+          }
         }
       ],
       "type": "esm",
@@ -664,6 +678,13 @@
           "resolved": {
             "type": "module",
             "url": "file:///F:/CocosCreateEdit/cocos/editors/Creator/3.8.3/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///F:/CocosCreateEdit/wx_mini_game/assets/NewComponent.ts"
           },
           "messages": []
         }
@@ -692,6 +713,58 @@
             "end": {
               "line": 1,
               "column": 224
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///F:/CocosCreateEdit/wx_mini_game/assets/NewComponent.ts": {
+      "mTimestamp": {
+        "mtime": 1719554301921.368,
+        "uuid": "02355a23-bc8e-45ab-b2bc-f1436ccf1ec5"
+      },
+      "chunkId": "6629726ce8bf3b2c1beec2dfea8f716c7e17cecd",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
             }
           }
         }
